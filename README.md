@@ -1,9 +1,16 @@
-### 💻 Code. Learn. Build. Repeat.
+👋 Hi, I'm Darshan B R
+======================
+
+### 🚀 Information Science Student | Web Dev & AI Enthusiast | Problem Solver
+
+💻 **Code. Learn. Build. Repeat.**
 
 ### 🌐 Connect with Me
+
 - 📧 **Email:** [darshanbr19@gmail.com](mailto:darshanbr19@gmail.com)
 - 💼 **LinkedIn:** [Darshan B R](https://www.linkedin.com/in/darshan-b-r-264a35325)
 - 📸 **Instagram:** [_darshan_br](https://www.instagram.com/_darshan_br)
+- 🧠 **LeetCode:** [darshanbr19](https://leetcode.com/u/darshanbr19/)
 
 ---
 
@@ -31,6 +38,17 @@
 
 ---
 
+### 💡 LeetCode Stats
+
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/darshanbr19?theme=dark&font=Nunito&ext=heatmap"
+    alt="LeetCode Stats"
+  />
+</p>
+
+---
+
 ### 🚀 About Me
 
 I'm a 6th semester Information Science student at **CIT**, passionate about **Web Development, Artificial Intelligence, and real-world problem-solving**.  
@@ -43,7 +61,8 @@ I am eager to gain practical experience through **internships, projects, and col
 
 ---
 
-🧠 **Skills & Technologies**
+### 🧠 Skills & Technologies
+
 - 🟨 Programming: Java, Python  
 - 🌐 Web: HTML, CSS, JavaScript (learning)  
 - 🤖 AI/ML: Basics of AI/ML concepts and applications  
@@ -51,4 +70,4 @@ I am eager to gain practical experience through **internships, projects, and col
 
 ---
 
-⭐ *“Stay curious. Keep building.”*
+⭐ “Stay curious. Keep building.”
