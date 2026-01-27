@@ -29,14 +29,7 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=darshanbr19&theme=radical"
-    alt="GitHub Streak"
-  />
-</p>
 
----
 
 ### 💡 LeetCode Stats
 
